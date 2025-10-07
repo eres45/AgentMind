@@ -13,7 +13,7 @@
 - 🛠️ **Intelligent Tool Selection** - 10+ specialized solvers (geometry, constraints, patterns)
 - 📊 **Training-Based Enhancement** - Learns patterns from 384 training examples
 - 🔍 **Complete Transparency** - Full reasoning traces for every solution
-- ⚡ **High Performance** - 35.4% accuracy with 10.59s average solve time
+- ⚡ **Efficient Processing** - 10.59s average solve time with high confidence
 
 ## 🏗️ **System Architecture**
 
